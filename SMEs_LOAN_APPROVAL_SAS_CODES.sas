@@ -1,15 +1,13 @@
 
 /**************************************************************************************
 
-Name of DS: Ms. Lam Ying Xian (TP063038)
-Name of SAS program: mydapassignment_TP063038.sas
-Description: The assignment is about the prediction of loan approval in private bank.
+Name of DS: Ms. Lam Ying Xian 
+Description: The project is about the prediction of loan approval in private bank.
              The first task is to explore the dataset;
              The second task is to cleanse the dataset; and
              The third task is to build the predictive model.
 Date first written: Mon, 19-Jul-2021
 Date last updated: Mon, 7-Sep-2021
-Folder name: DAP_FT_JAN_2021_TP063038
 Library name: MYLIB038
 
 ***************************************************************************************/
